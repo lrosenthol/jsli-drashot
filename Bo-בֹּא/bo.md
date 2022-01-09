@@ -22,11 +22,20 @@ Another possible meaning of that line could be in answer to the question "where 
 הַחֹ֧דֶשׁ הַזֶּ֛ה לָכֶ֖ם רֹ֣אשׁ חֳדָשִׁ֑ים רִאשׁ֥וֹן הוּא֙ לָכֶ֔ם לְחׇדְשֵׁ֖י הַשָּׁנָֽה׃
 This month shall mark for you the beginning of the months; it shall be the first of the months of the year for you.
 
-דַּבְּר֗וּ אֶֽל־כׇּל־עֲדַ֤ת יִשְׂרָאֵל֙ לֵאמֹ֔ר בֶּעָשֹׂ֖ר לַחֹ֣דֶשׁ הַזֶּ֑ה וְיִקְח֣וּ לָהֶ֗ם אִ֛ישׁ שֶׂ֥ה לְבֵית־אָבֹ֖ת שֶׂ֥ה לַבָּֽיִת׃
-Speak to the whole community of Israel and say that on the tenth of this month each of them shall take a lamba to a family, a lamb to a household.
-
 ##### Thoughts
-Commandment of Pesach
+
+This (new moon) is the first commandment given to the **entire** people of Israel....
+
+it was the first (of many) to separate them from the other nations, such as the Egyptians who worshipped the Sun (Ra).
+- Maharal of Prague
+
+
+###### All about Change
+
+Kohelet (Ecclesiastes) 1:9
+ וְאֵ֥ין כׇּל־חָדָ֖שׁ תַּ֥חַת הַשָּֽׁמֶשׁ׃
+
+Nothing new under the sun - showing that the sun is consistent and unchanging.  The moon, on the other hand, changes throughout the month and is like the Jewish people who are constantly changing and evolving.
 
 ##### How to determine the Molad of a month
 **Rashi**
@@ -34,3 +43,13 @@ He therefore pointed it out to him in the sky with the finger and said to him, �
 
 ##### Or HaChaim
 The Torah stressed the word לכם, for you, to tell us that this month would be special only for the Jewish people. Our sages pointed out in Rosh Hashanah 11 that Israel was redeemed from Egypt in Nissan and that the future redemption would again occur in that month. This is so because this month is a harbinger of good tidings for Israel. It is appropriate that Israel should begin the count of the months of the year by making Nissan the first month.
+
+
+##### Verse
+
+דַּבְּר֗וּ אֶֽל־כׇּל־עֲדַ֤ת יִשְׂרָאֵל֙ לֵאמֹ֔ר בֶּעָשֹׂ֖ר לַחֹ֣דֶשׁ הַזֶּ֑ה וְיִקְח֣וּ לָהֶ֗ם אִ֛ישׁ שֶׂ֥ה לְבֵית־אָבֹ֖ת שֶׂ֥ה לַבָּֽיִת׃
+Speak to the whole community of Israel and say that on the tenth of this month each of them shall take a lamb to a family, a lamb to a household.
+
+##### Thoughts
+Commandment of Pesach
+
